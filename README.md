@@ -1,8 +1,6 @@
 # Real-Estate-Sales-Tableau-Analysis
 Tableau analysis of real estate sales trends, market segmentation, property types, sales ratios, and geographic performance.
 
-# 🏠 Real Estate Sales Analysis
-
 ## 📌 Overview
 
 This project uses Tableau to analyze real estate sales data from 2011 to 2022. The analysis explores yearly sales trends, property types, market segments, sales ratios, assessed values, sale amounts, and geographic patterns. An interactive Story combines multiple visualizations to present the key findings.
@@ -13,13 +11,13 @@ This project uses Tableau to analyze real estate sales data from 2011 to 2022. T
 
 ![Overall Trends By Year](01_overall_trends_by_year.png)
 
-### Property Type Breakdown
-
-![Property Type Breakdown](02_property_type_breakdown.png)
-
 ### Market Segmentation Analysis
 
-![Market Segmentation Analysis](03_market_segmentation_analysis.png)
+![Market Segmentation Analysis](02_market_segmentation_analysis.png)
+
+### Property Type Breakdown
+
+![Property Type Breakdown](03_property_type_breakdown.png)
 
 ### Key Insights Dashboard
 
