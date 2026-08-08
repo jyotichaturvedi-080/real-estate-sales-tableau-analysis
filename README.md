@@ -23,7 +23,7 @@ This project uses Tableau to analyze real estate sales data from 2011 to 2022. T
 
 ![Key Insights Dashboard](04_key_insights_dashboard.png)
 
-### Dashboard Insights
+### Dashboard
 
 ![Dashboard Insights](05_dashboard_insights.png)
 
